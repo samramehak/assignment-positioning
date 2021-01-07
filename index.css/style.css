@@ -1,0 +1,105 @@
+.header{
+    background-color: palevioletred;
+    padding: 0px;
+    margin: 0px;
+}
+.nav {
+ display:inline-block; 
+ padding: 10px;
+}
+.nav li{
+    color:black ;   
+}
+.relative heading{
+    text-align: center;
+    margin: 20px;
+}
+.image container{
+    height:200px ;
+    width: 20;
+}
+.relative image{
+    height:100% ;
+    width:100% ;
+}
+.image1{
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.image2{
+    position: relative;
+    left: 200px;
+    bottom: 4px;
+}
+.image3{
+    position: relative;
+    bottom:407px;
+    left: 400px;
+}
+.image4{
+    position: relative;
+    bottom:411px;
+    left: 600px;
+}
+.image5{
+    position: relative;
+    left: 800px;
+    bottom: 817px;
+}
+.relative-image{
+    height: 100%;
+    width: 100%;
+}
+.image-container-absolute{
+    position: relative;
+}
+.image-container-absolute{
+    height: 200px;
+    width:20vw ;
+}
+.image6{
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
+.image7{
+    position:absolute ;
+    left: 200px;
+    bottom: 200px;
+}
+.image8{
+    position: absolute;
+    left: 600px;
+    bottom: 200px;
+}
+.image9{
+    position: absolute;
+    bottom: 400px;
+    left: 0px;
+}
+.image10{
+    position: absolute;
+    bottom: 400px;
+    left: 800px;
+}
+.image11{
+    position: absolute;
+    left: 600px;
+    top: 200px;
+}
+.image12{
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+.image13{
+    position: absolute;
+    top: 400px;
+    left: 2px;
+}
+.image14{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
